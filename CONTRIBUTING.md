@@ -16,7 +16,7 @@ Replace <GRADLE> with `gradlew` on Windows, and `./gradlew` on others.
 ```
 <GRADLE> -t run
 ```
-Opens http://localhost:8080/ with live reload.
+Opens http://localhost:8080/ with live reloading enabled.
 
 ### Production
 

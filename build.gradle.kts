@@ -8,11 +8,7 @@ repositories {
 }
 
 kotlin {
-    sourceSets {
-        getByName("main").kotlin.srcDirs("src/main")
-        getByName("test").kotlin.srcDirs("src/test")
-    }
-
+    sourceSets { getByName("main").kotlin.srcDirs("src/main") }
     target.browser { }
 }
 
