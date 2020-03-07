@@ -1,6 +1,3 @@
-package com.neelkamath.kotlinconf_explorer.components
-
-import com.neelkamath.kotlinconf_explorer.Video
 import kotlinx.html.js.onClickFunction
 import react.*
 import react.dom.p
